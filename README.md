@@ -1,2 +1,2 @@
 # Composites-Property-Prediction
-Code available to reproduce results
+Code available to reproduce results of research work at CIDNA
